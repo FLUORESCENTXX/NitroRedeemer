@@ -21,4 +21,18 @@ print(f'''{Fore.LIGHTMAGENTA_EX}
 ║        [3] Nitro CC Checker                 ║  # options
 ║                                             ║
 ╚═════════════════════════════════════════════╝
-   
+  ''' + Fore.RESET)
+  choice = input(f'{Fore.LIGHTMAGENTA_EX}[>] ')
+  if choice == '1':
+    system('cls')
+    startClaimer()
+    Init()
+  elif choice == '2':
+    system('cls')
+    startChecker()
+  elif choice == '3':
+    system('cls')
+    startccChecker()
+    else:
+      mainmenu()
+    
