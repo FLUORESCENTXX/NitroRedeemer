@@ -1,4 +1,3 @@
-![multi](https://user-images.githubusercontent.com/95067718/174014299-fae6fec1-8f1b-486f-a4d0-943534ada653.jpg)
 
 # NitroRedeemer
 A fast auto python script that redeems nitro codes that look like discord.com/billings/promotions/validcode
